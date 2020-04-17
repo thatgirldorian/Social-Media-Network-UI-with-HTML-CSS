@@ -12,6 +12,7 @@ This is a user interface design I made for a social media network. It's modelled
 - Netlify
 
 <h3>Link to site:</h3>
+https://happy-goldberg-2d715a.netlify.app/
 
 <h3>Screenshots:</h3>
 
