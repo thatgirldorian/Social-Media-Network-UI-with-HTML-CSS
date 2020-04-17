@@ -15,5 +15,11 @@ This is a user interface design I made for a social media network. It's modelled
 
 <h3>Screenshot:</h3>
 
+![screen1](https://user-images.githubusercontent.com/40691059/79600016-5f687e00-80de-11ea-8418-6b70dde3af7b.PNG)
+
+![screen2](https://user-images.githubusercontent.com/40691059/79600040-67282280-80de-11ea-9181-f7e84bc8d48e.PNG)
+
+![screen3](https://user-images.githubusercontent.com/40691059/79600052-714a2100-80de-11ea-8cf6-934707651d73.PNG)
+
 
 
