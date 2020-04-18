@@ -1,7 +1,7 @@
 # Social-Media-Network-UI-with-HTML-CSS
 
 <h3>Function & Description:</h3>
-This is a user interface design I made for a social media network. It's modelled after Facebook, but I switched up a few things. It has an area for the user's picture, photos and friends. It also shows a bit of her feed.
+This is a user interface design I made for a social media network with only HTML & CSS. It's modelled after Facebook, but I switched up a few things. It has an area for the user's picture, photos and friends. It also shows a bit of her feed.
 
 
 <h3>Technology Used:</h3>
